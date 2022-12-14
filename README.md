@@ -26,7 +26,7 @@
 
 ### Посмотреть макет можно по ссылке ↓
 
-[«Макет Проекта»]
+[«Макет Проекта»]https://www.figma.com/file/UREKx0z7cLPkGi3gvYnCYv/Untitled?node-id=0%3A1&t=Pzs8MEhiotdKkGs8-0
 
 
 ### Посмотреть сайт можно по ссылке ↓
