@@ -26,9 +26,11 @@
 
 ### Посмотреть макет можно по ссылке ↓
 
-[«Макет Проекта»]https://www.figma.com/file/UREKx0z7cLPkGi3gvYnCYv/BAZA?node-id=0%3A1&t=E7hYyPuqjFNeDcHd-0
+[«Макет Проекта»]
+https://www.figma.com/file/UREKx0z7cLPkGi3gvYnCYv/BAZA?node-id=0%3A1&t=E7hYyPuqjFNeDcHd-0
 
 
 ### Посмотреть сайт можно по ссылке ↓
 
 [«Сам Проект»]
+https://yanzaharov.github.io/BAZA/
