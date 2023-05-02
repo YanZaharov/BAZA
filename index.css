@@ -15,9 +15,10 @@
 .home1280px-rectangle1 {
   top: 0px;
   left: 0px;
-  width: 1280px;
+  width: 100%;
   height: 4000px;
-  position: absolute;
+  display: flex;
+  position: relative;
   border-color: transparent;
 }
 .home1280px-b-a-z-a {
