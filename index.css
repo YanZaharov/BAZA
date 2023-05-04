@@ -1,10 +1,14 @@
 body{
 	min-width: 1280px;
+	background-color:#58579C;
+	  height: 4000px;
+	  padding: 0;
 }
-
-
 .home1280px-container {
+background-color:#6463B1;
   min-height: 100vh;
+  margin: 0 auto;
+    width: 1280px;
 }
 .home1280px-home1280px {
   width: 100%;
@@ -14,16 +18,6 @@ body{
   position: relative;
   align-items: flex-start;
   flex-shrink: 0;
-  border-color: transparent;
-  background-color: rgba(255, 255, 255, 1);
-}
-.home1280px-rectangle1 {
-  top: 0px;
-  left: 0px;
-  width: 100%;
-  height: 4000px;
-  display: flex;
-  position: relative;
   border-color: transparent;
 }
 .home1280px-b-a-z-a {
