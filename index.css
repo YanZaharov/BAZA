@@ -79,7 +79,7 @@ body{
 	left: 980px;
 	position: absolute;
 }
-.home1280px-vector {
+.letsgo {
   top: 522px;
   left: 320px;
   width: 638px;
@@ -87,161 +87,91 @@ body{
   position: absolute;
   box-sizing: content-box;
 }
-.home1280px-dream-trading-card22 {
+.card-1 {
+  top: 860px;
+  left: 45px;
+  width: 369px;
+  height: 656px;
+  position: absolute;
+}
+.card-2 {
   top: 860px;
   left: 424px;
   width: 369px;
   height: 656px;
   position: absolute;
 }
-.home1280px-dream-trading-card32 {
+.card-3 {
   top: 860px;
   left: 803px;
   width: 369px;
   height: 656px;
   position: absolute;
 }
-.home1280px-s-v-g-trading-card1 {
-  top: 2332px;
-  left: 803px;
-  width: 369px;
-  height: 656px;
-  position: absolute;
-}
-.home1280px-dream-trading-card41 {
+.card-4 {
   top: 1596px;
   left: 45px;
   width: 369px;
   height: 656px;
   position: absolute;
 }
-.home1280px-s-v-g-trading-card11 {
-  top: 2332px;
-  left: 424px;
-  width: 369px;
-  height: 656px;
-  position: absolute;
-}
-.home1280px-dream-trading-card51 {
+.card-5 {
   top: 1596px;
   left: 424px;
   width: 369px;
   height: 656px;
   position: absolute;
 }
-.home1280px-dream-trading-card1 {
-  top: 2332px;
-  left: 45px;
-  width: 369px;
-  height: 656px;
-  position: absolute;
-}
-.home1280px-dream-trading-card73 {
+.card-6 {
   top: 1596px;
   left: 803px;
   width: 369px;
   height: 656px;
   position: absolute;
 }
-.home1280px-s-v-g-trading-card12 {
+.card-7 {
+  top: 2332px;
+  left: 45px;
+  width: 369px;
+  height: 656px;
+  position: absolute;
+}
+.card-8 {
+  top: 2332px;
+  left: 424px;
+  width: 369px;
+  height: 656px;
+  position: absolute;
+}
+.card-9 {
+  top: 2332px;
+  left: 803px;
+  width: 369px;
+  height: 656px;
+  position: absolute;
+}
+.card-10 {
   top: 3068px;
   left: 45px;
   width: 369px;
   height: 656px;
   position: absolute;
 }
-.home1280px-dream-trading-card42 {
+.card-11 {
   top: 3068px;
   left: 424px;
   width: 369px;
   height: 656px;
   position: absolute;
 }
-.home1280px-dream-trading-card72 {
+.card-12 {
   top: 3068px;
   left: 803px;
   width: 369px;
   height: 656px;
   position: absolute;
 }
-.home1280px-ellipse1 {
-  top: 1277px;
-  left: 1194px;
-  width: 65px;
-  height: 65px;
-  position: absolute;
-}
-.home1280px-ellipse101 {
-  top: 1148px;
-  left: 1194px;
-  width: 65px;
-  height: 65px;
-  position: absolute;
-}
-.home1280px-ellipse102 {
-  top: 2024px;
-  left: 1194px;
-  width: 65px;
-  height: 65px;
-  position: absolute;
-}
-.home1280px-ellipse103 {
-  top: 2492px;
-  left: 1194px;
-  width: 65px;
-  height: 65px;
-  position: absolute;
-}
-.home1280px-ellipse104 {
-  top: 2356px;
-  left: 1194px;
-  width: 65px;
-  height: 65px;
-  position: absolute;
-}
-.home1280px-ellipse105 {
-  top: 2750px;
-  left: 1194px;
-  width: 65px;
-  height: 65px;
-  position: absolute;
-}
-.home1280px-ellipse106 {
-  top: 3357px;
-  left: 1194px;
-  width: 65px;
-  height: 65px;
-  position: absolute;
-}
-.home1280px-ellipse107 {
-  top: 3228px;
-  left: 1194px;
-  width: 65px;
-  height: 65px;
-  position: absolute;
-}
-.home1280px-ellipse108 {
-  top: 3099px;
-  left: 1194px;
-  width: 65px;
-  height: 65px;
-  position: absolute;
-}
-.home1280px-ellipse109 {
-  top: 1895px;
-  left: 1194px;
-  width: 65px;
-  height: 65px;
-  position: absolute;
-}
-.home1280px-ellipse110 {
-  top: 1637px;
-  left: 1194px;
-  width: 65px;
-  height: 65px;
-  position: absolute;
-}
-.home1280px-ellipse8 {
+.ell-11 {
   top: 890px;
   left: 1194px;
   width: 65px;
@@ -249,7 +179,42 @@ body{
   position: absolute;
   border-color: transparent;
 }
-.home1280px-ellipse9 {
+.ell-12 {
+  top: 1019px;
+  left: 1194px;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+}
+.ell-13 {
+  top: 1148px;
+  left: 1194px;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+}
+.ell-14 {
+  top: 1277px;
+  left: 1194px;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+}
+.pol-15 {
+  top: 1406px;
+  left: 1192px;
+  width: 69px;
+  height: 60px;
+  position: absolute;
+}
+.ell-21 {
+  top: 1637px;
+  left: 1194px;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+}
+.ell-22 {
   top: 1766px;
   left: 1194px;
   width: 65px;
@@ -257,15 +222,42 @@ body{
   position: absolute;
   border-color: transparent;
 }
-.home1280px-ellipse11 {
-  top: 3486px;
+.ell-23 {
+  top: 1895px;
   left: 1194px;
   width: 65px;
   height: 65px;
   position: absolute;
-  border-color: transparent;
 }
-.home1280px-ellipse10 {
+.ell-24 {
+  top: 2024px;
+  left: 1194px;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+}
+.pol-25 {
+  top: 2153px;
+  left: 1192px;
+  width: 69px;
+  height: 60px;
+  position: absolute;
+}
+.ell-31 {
+  top: 2356px;
+  left: 1194px;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+}
+.ell-32 {
+  top: 2492px;
+  left: 1194px;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+}
+.ell-33 {
   top: 2621px;
   left: 1194px;
   width: 65px;
@@ -273,45 +265,53 @@ body{
   position: absolute;
   border-color: transparent;
 }
-.home1280px-polygon2 {
-  top: 3613px;
-  left: 1192px;
-  width: 69px;
-  height: 60px;
+.ell-34 {
+  top: 2750px;
+  left: 1194px;
+  width: 65px;
+  height: 65px;
   position: absolute;
 }
-.home1280px-polygon21 {
-  top: 1406px;
-  left: 1192px;
-  width: 69px;
-  height: 60px;
-  position: absolute;
-}
-.home1280px-polygon22 {
-  top: 2153px;
-  left: 1192px;
-  width: 69px;
-  height: 60px;
-  position: absolute;
-}
-.home1280px-polygon23 {
+.pol-35 {
   top: 2877px;
   left: 1192px;
   width: 69px;
   height: 60px;
   position: absolute;
 }
-.home1280px-dream-trading-card13 {
-  top: 860px;
-  left: 45px;
-  width: 369px;
-  height: 656px;
-  position: absolute;
-}
-.home1280px-ellipse111 {
-  top: 1019px;
+.ell-41 {
+  top: 3099px;
   left: 1194px;
   width: 65px;
   height: 65px;
+  position: absolute;
+}
+.ell-42 {
+  top: 3228px;
+  left: 1194px;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+}
+.ell-43 {
+  top: 3357px;
+  left: 1194px;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+}
+.ell-44 {
+  top: 3486px;
+  left: 1194px;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  border-color: transparent;
+}
+.pol-45 {
+  top: 3613px;
+  left: 1192px;
+  width: 69px;
+  height: 60px;
   position: absolute;
 }
