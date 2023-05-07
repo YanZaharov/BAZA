@@ -98,17 +98,22 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 .card-2 {
   top: 860px;
   left: 424px;
   width: 369px;
-  height: 701px;
+  height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 #m1 {
-	padding-top: 45px;
-	margin-top: -45px;
+	top: 815px;
+	left: 424px;
+	position: absolute;
 }
 .card-3 {
   top: 860px;
@@ -116,6 +121,8 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 .card-4 {
   top: 1596px;
@@ -123,17 +130,22 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 .card-5 {
   top: 1596px;
   left: 424px;
   width: 369px;
-  height: 701px;
+  height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 #m2 {
-	padding-top: 45px;
-	margin-top: -45px;
+	top: 1551px;
+	left: 424px;
+	position: absolute;
 }
 .card-6 {
   top: 1596px;
@@ -141,6 +153,8 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 .card-7 {
   top: 2332px;
@@ -148,17 +162,22 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 .card-8 {
   top: 2332px;
   left: 424px;
   width: 369px;
-  height: 701px;
+  height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 #m3 {
-	padding-top: 45px;
-	margin-top: -45px;
+	top: 2287px;
+	left: 424px;
+	position: absolute;
 }
 .card-9 {
   top: 2332px;
@@ -166,6 +185,8 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 .card-10 {
   top: 3068px;
@@ -173,17 +194,22 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 .card-11 {
   top: 3068px;
   left: 424px;
   width: 369px;
-  height: 701px;
+  height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 #m4 {
-	padding-top: 45px;
-	margin-top: -45px;
+	top: 3023px;
+	left: 424px;
+	position: absolute;
 }
 .card-12 {
   top: 3068px;
@@ -191,6 +217,8 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 .ell-11 {
   top: 890px;
