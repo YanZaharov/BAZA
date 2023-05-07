@@ -7,9 +7,15 @@ html{
 
 body{
 	min-width: 1280px;
-	background-color:#58579C;
+	background: linear-gradient(80deg, #b9b3ff, #f96666);
 	height: 4000px;
 	padding: 0;
+}
+.container {
+	background: linear-gradient(80deg, #b9b3ff, #f96666);
+	min-height: 100vh;
+	margin: 0 auto;
+	width: 1280px;
 }
 
 .exb{
@@ -21,7 +27,7 @@ body{
 	opacity: .7
 }
 .exb:hover{
-	color: silver;
+	color: white;
 	opacity: .5
 }
 .about{
@@ -33,14 +39,8 @@ body{
 	opacity: .7
 }
 .about:hover{
-	color: silver;
+	color: white;
 	opacity: .5
-}
-.container {
-	background-color:#6463B1;
-	min-height: 100vh;
-	margin: 0 auto;
-	width: 1280px;
 }
 .home1280px {
 	width: 100%;
@@ -59,6 +59,7 @@ body{
 	height: 94px;
 	position: absolute;
 	box-sizing: content-box;
+	opacity: .9
 }
 .footer {
 	top: 3886px;
@@ -81,7 +82,7 @@ body{
 	flex-direction: row;
 	justify-content: flex-start;
 	background-color: transparent;
-	opacity: .8
+	opacity: .5
 }
 .copybaza{
 	font-family: Arial, sans-serif;
@@ -103,6 +104,7 @@ body{
 	width: 638px;
 	height: 217px;
 	position: absolute;
+	opacity: .7
 }
 .letsgo:hover{
 	top: 490px;
@@ -245,6 +247,7 @@ body{
   height: 65px;
   position: absolute;
   border-color: transparent;
+  opacity: .9
 }
 .ell-12 {
   top: 1019px;
@@ -252,6 +255,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .ell-13 {
   top: 1148px;
@@ -259,6 +263,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .ell-14 {
   top: 1277px;
@@ -266,6 +271,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .pol-15 {
   top: 1406px;
@@ -273,6 +279,7 @@ body{
   width: 69px;
   height: 60px;
   position: absolute;
+  opacity: .9
 }
 .ell-21 {
   top: 1637px;
@@ -280,6 +287,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .ell-22 {
   top: 1766px;
@@ -288,6 +296,7 @@ body{
   height: 65px;
   position: absolute;
   border-color: transparent;
+  opacity: .9
 }
 .ell-23 {
   top: 1895px;
@@ -295,6 +304,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .ell-24 {
   top: 2024px;
@@ -302,6 +312,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .pol-25 {
   top: 2153px;
@@ -309,6 +320,7 @@ body{
   width: 69px;
   height: 60px;
   position: absolute;
+  opacity: .9
 }
 .ell-31 {
   top: 2356px;
@@ -316,6 +328,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .ell-32 {
   top: 2492px;
@@ -323,6 +336,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .ell-33 {
   top: 2621px;
@@ -331,6 +345,7 @@ body{
   height: 65px;
   position: absolute;
   border-color: transparent;
+  opacity: .9
 }
 .ell-34 {
   top: 2750px;
@@ -338,6 +353,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .pol-35 {
   top: 2877px;
@@ -345,6 +361,7 @@ body{
   width: 69px;
   height: 60px;
   position: absolute;
+  opacity: .9
 }
 .ell-41 {
   top: 3099px;
@@ -352,6 +369,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .ell-42 {
   top: 3228px;
@@ -359,6 +377,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .ell-43 {
   top: 3357px;
@@ -366,6 +385,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .ell-44 {
   top: 3486px;
@@ -374,6 +394,7 @@ body{
   height: 65px;
   position: absolute;
   border-color: transparent;
+  opacity: .9
 }
 .pol-45 {
   top: 3613px;
@@ -381,4 +402,5 @@ body{
   width: 69px;
   height: 60px;
   position: absolute;
+  opacity: .9
 }
