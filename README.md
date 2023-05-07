@@ -11,7 +11,7 @@
 - [x] Анимации в Figma
 - [x] Редактирование Шрифтов
 - [x] Создание UI kit
-- [x] Адаптацию макета под разные типы устройств - (1280\1024\768\480\320
+- [x] Адаптацию макета под разные типы устройств - (1600\1280\1024\768\480\320)
 ### HTML:
 - [x] SEO
 - [x] Семантическая верстка
@@ -28,7 +28,7 @@
 ### Посмотреть макет можно по ссылке ↓
 
 [«Макет Проекта»]
-https://www.figma.com/file/UREKx0z7cLPkGi3gvYnCYv/BAZA?node-id=0%3A1&t=E7hYyPuqjFNeDcHd-0
+https://www.figma.com/file/UEfQRK9YqTtw3cGLRc3VlL/Untitled?type=design&node-id=1-4&t=Nt0Qdxgq0yHdXcZz-0
 
 
 ### Посмотреть сайт можно по ссылке ↓

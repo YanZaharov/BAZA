@@ -1,8 +1,21 @@
+html{
+	box-sizing: border-box;
+}
+*, *:after, *:before{
+	box-sizing: inherit;
+}
+
 body{
 	min-width: 1280px;
-	background-color:#58579C;
+	background: linear-gradient(80deg, #b9b3ff, #f96666);
 	height: 4000px;
 	padding: 0;
+}
+.container {
+	background: linear-gradient(80deg, #b9b3ff, #f96666);
+	min-height: 100vh;
+	margin: 0 auto;
+	width: 1280px;
 }
 
 .exb{
@@ -11,6 +24,11 @@ body{
 	top: 229px;
 	left: 41px;
 	position: absolute;
+	opacity: .7
+}
+.exb:hover{
+	color: white;
+	opacity: .5
 }
 .about{
 	font-family: Arial, sans-serif;
@@ -18,12 +36,11 @@ body{
 	top: 86px;
 	left: 1054px;
 	position: absolute;
+	opacity: .7
 }
-.container {
-	background-color:#6463B1;
-	min-height: 100vh;
-	margin: 0 auto;
-	width: 1280px;
+.about:hover{
+	color: white;
+	opacity: .5
 }
 .home1280px {
 	width: 100%;
@@ -42,8 +59,9 @@ body{
 	height: 94px;
 	position: absolute;
 	box-sizing: content-box;
+	opacity: .9
 }
-.footer {
+footer {
 	top: 3886px;
 	left: 37px;
 	width: 1195px;
@@ -64,6 +82,7 @@ body{
 	flex-direction: row;
 	justify-content: flex-start;
 	background-color: transparent;
+	opacity: .5
 }
 .copybaza{
 	font-family: Arial, sans-serif;
@@ -80,12 +99,18 @@ body{
 	position: absolute;
 }
 .letsgo {
-  top: 522px;
-  left: 320px;
-  width: 638px;
-  height: 217px;
-  position: absolute;
-  box-sizing: content-box;
+	top: 500px;
+	left: 320px;
+	width: 638px;
+	height: 217px;
+	position: absolute;
+	opacity: .7
+}
+.letsgo:hover{
+	top: 490px;
+	left: 307px;
+	width: 665px;
+	height: 270px;
 }
 .card-1 {
   top: 860px;
@@ -93,6 +118,16 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px 3px rgba(0, 0, 0, 0.3);
+}
+.card-1:hover{
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.3);
+}
+#m1 {
+	top: 815px;
+	left: 424px;
+	position: absolute;
 }
 .card-2 {
   top: 860px;
@@ -100,6 +135,11 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
+}
+.card-2:hover{
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.3);
 }
 .card-3 {
   top: 860px;
@@ -107,6 +147,11 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
+}
+.card-3:hover{
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.3);
 }
 .card-4 {
   top: 1596px;
@@ -114,6 +159,16 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
+}
+.card-4:hover{
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.3);
+}
+#m2 {
+	top: 1551px;
+	left: 424px;
+	position: absolute;
 }
 .card-5 {
   top: 1596px;
@@ -121,6 +176,11 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
+}
+.card-5:hover{
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.3);
 }
 .card-6 {
   top: 1596px;
@@ -128,6 +188,11 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
+}
+.card-6:hover{
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.3);
 }
 .card-7 {
   top: 2332px;
@@ -135,6 +200,16 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
+}
+.card-7:hover{
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.3);
+}
+#m3 {
+	top: 2287px;
+	left: 424px;
+	position: absolute;
 }
 .card-8 {
   top: 2332px;
@@ -142,6 +217,11 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
+}
+.card-8:hover{
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.3);
 }
 .card-9 {
   top: 2332px;
@@ -149,6 +229,11 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
+}
+.card-9:hover{
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.3);
 }
 .card-10 {
   top: 3068px;
@@ -156,6 +241,16 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
+}
+.card-10:hover{
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.3);
+}
+#m4 {
+	top: 3023px;
+	left: 424px;
+	position: absolute;
 }
 .card-11 {
   top: 3068px;
@@ -163,6 +258,11 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
+}
+.card-11:hover{
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.3);
 }
 .card-12 {
   top: 3068px;
@@ -170,6 +270,11 @@ body{
   width: 369px;
   height: 656px;
   position: absolute;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
+}
+.card-12:hover{
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.3);
 }
 .ell-11 {
   top: 890px;
@@ -178,6 +283,7 @@ body{
   height: 65px;
   position: absolute;
   border-color: transparent;
+  opacity: .9
 }
 .ell-12 {
   top: 1019px;
@@ -185,6 +291,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .ell-13 {
   top: 1148px;
@@ -192,6 +299,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .ell-14 {
   top: 1277px;
@@ -199,6 +307,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .pol-15 {
   top: 1406px;
@@ -206,6 +315,7 @@ body{
   width: 69px;
   height: 60px;
   position: absolute;
+  opacity: .9
 }
 .ell-21 {
   top: 1637px;
@@ -213,6 +323,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .ell-22 {
   top: 1766px;
@@ -221,6 +332,7 @@ body{
   height: 65px;
   position: absolute;
   border-color: transparent;
+  opacity: .9
 }
 .ell-23 {
   top: 1895px;
@@ -228,6 +340,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .ell-24 {
   top: 2024px;
@@ -235,6 +348,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .pol-25 {
   top: 2153px;
@@ -242,6 +356,7 @@ body{
   width: 69px;
   height: 60px;
   position: absolute;
+  opacity: .9
 }
 .ell-31 {
   top: 2356px;
@@ -249,6 +364,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .ell-32 {
   top: 2492px;
@@ -256,6 +372,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .ell-33 {
   top: 2621px;
@@ -264,6 +381,7 @@ body{
   height: 65px;
   position: absolute;
   border-color: transparent;
+  opacity: .9
 }
 .ell-34 {
   top: 2750px;
@@ -271,6 +389,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .pol-35 {
   top: 2877px;
@@ -278,6 +397,7 @@ body{
   width: 69px;
   height: 60px;
   position: absolute;
+  opacity: .9
 }
 .ell-41 {
   top: 3099px;
@@ -285,6 +405,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .ell-42 {
   top: 3228px;
@@ -292,6 +413,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .ell-43 {
   top: 3357px;
@@ -299,6 +421,7 @@ body{
   width: 65px;
   height: 65px;
   position: absolute;
+  opacity: .9
 }
 .ell-44 {
   top: 3486px;
@@ -307,6 +430,7 @@ body{
   height: 65px;
   position: absolute;
   border-color: transparent;
+  opacity: .9
 }
 .pol-45 {
   top: 3613px;
@@ -314,4 +438,5 @@ body{
   width: 69px;
   height: 60px;
   position: absolute;
+  opacity: .9
 }
