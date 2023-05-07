@@ -80,12 +80,17 @@ body{
 	position: absolute;
 }
 .letsgo {
-  top: 522px;
-  left: 320px;
-  width: 638px;
-  height: 217px;
-  position: absolute;
-  box-sizing: content-box;
+	top: 500px;
+	left: 320px;
+	width: 638px;
+	height: 217px;
+	position: absolute;
+}
+.letsgo:hover{
+	top: 490px;
+	left: 307px;
+	width: 665px;
+	height: 270px;
 }
 .card-1 {
   top: 860px;
@@ -98,8 +103,12 @@ body{
   top: 860px;
   left: 424px;
   width: 369px;
-  height: 656px;
+  height: 701px;
   position: absolute;
+}
+#m1 {
+	padding-top: 45px;
+	margin-top: -45px;
 }
 .card-3 {
   top: 860px;
@@ -119,8 +128,12 @@ body{
   top: 1596px;
   left: 424px;
   width: 369px;
-  height: 656px;
+  height: 701px;
   position: absolute;
+}
+#m2 {
+	padding-top: 45px;
+	margin-top: -45px;
 }
 .card-6 {
   top: 1596px;
@@ -140,8 +153,12 @@ body{
   top: 2332px;
   left: 424px;
   width: 369px;
-  height: 656px;
+  height: 701px;
   position: absolute;
+}
+#m3 {
+	padding-top: 45px;
+	margin-top: -45px;
 }
 .card-9 {
   top: 2332px;
@@ -161,8 +178,12 @@ body{
   top: 3068px;
   left: 424px;
   width: 369px;
-  height: 656px;
+  height: 701px;
   position: absolute;
+}
+#m4 {
+	padding-top: 45px;
+	margin-top: -45px;
 }
 .card-12 {
   top: 3068px;
