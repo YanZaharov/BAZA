@@ -18,6 +18,11 @@ body{
 	top: 229px;
 	left: 41px;
 	position: absolute;
+	opacity: .7
+}
+.exb:hover{
+	color: white;
+	opacity: .3
 }
 .about{
 	font-family: Arial, sans-serif;
@@ -25,6 +30,11 @@ body{
 	top: 86px;
 	left: 1054px;
 	position: absolute;
+	opacity: .7
+}
+.about:hover{
+	color: white;
+	opacity: .3
 }
 .container {
 	background-color:#6463B1;
@@ -71,6 +81,7 @@ body{
 	flex-direction: row;
 	justify-content: flex-start;
 	background-color: transparent;
+	opacity: .8
 }
 .copybaza{
 	font-family: Arial, sans-serif;
@@ -108,6 +119,11 @@ body{
   border-radius: 10px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
+#m1 {
+	top: 815px;
+	left: 424px;
+	position: absolute;
+}
 .card-2 {
   top: 860px;
   left: 424px;
@@ -116,11 +132,6 @@ body{
   position: absolute;
   border-radius: 10px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
-}
-#m1 {
-	top: 815px;
-	left: 424px;
-	position: absolute;
 }
 .card-3 {
   top: 860px;
@@ -140,6 +151,11 @@ body{
   border-radius: 10px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
+#m2 {
+	top: 1551px;
+	left: 424px;
+	position: absolute;
+}
 .card-5 {
   top: 1596px;
   left: 424px;
@@ -148,11 +164,6 @@ body{
   position: absolute;
   border-radius: 10px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
-}
-#m2 {
-	top: 1551px;
-	left: 424px;
-	position: absolute;
 }
 .card-6 {
   top: 1596px;
@@ -172,6 +183,11 @@ body{
   border-radius: 10px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
+#m3 {
+	top: 2287px;
+	left: 424px;
+	position: absolute;
+}
 .card-8 {
   top: 2332px;
   left: 424px;
@@ -180,11 +196,6 @@ body{
   position: absolute;
   border-radius: 10px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
-}
-#m3 {
-	top: 2287px;
-	left: 424px;
-	position: absolute;
 }
 .card-9 {
   top: 2332px;
@@ -204,6 +215,11 @@ body{
   border-radius: 10px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
+#m4 {
+	top: 3023px;
+	left: 424px;
+	position: absolute;
+}
 .card-11 {
   top: 3068px;
   left: 424px;
@@ -212,11 +228,6 @@ body{
   position: absolute;
   border-radius: 10px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
-}
-#m4 {
-	top: 3023px;
-	left: 424px;
-	position: absolute;
 }
 .card-12 {
   top: 3068px;
